@@ -1,0 +1,1 @@
+export { ResumeFormResult } from './ResumeFormResult';
